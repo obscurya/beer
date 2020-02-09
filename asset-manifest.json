@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/beer/static/css/main.8155bc82.chunk.css",
-    "main.js": "/beer/static/js/main.5aba357c.chunk.js",
-    "main.js.map": "/beer/static/js/main.5aba357c.chunk.js.map",
+    "main.js": "/beer/static/js/main.cba93515.chunk.js",
+    "main.js.map": "/beer/static/js/main.cba93515.chunk.js.map",
     "runtime-main.js": "/beer/static/js/runtime-main.dd28b84c.js",
     "runtime-main.js.map": "/beer/static/js/runtime-main.dd28b84c.js.map",
     "static/js/2.376a0d44.chunk.js": "/beer/static/js/2.376a0d44.chunk.js",
     "static/js/2.376a0d44.chunk.js.map": "/beer/static/js/2.376a0d44.chunk.js.map",
     "index.html": "/beer/index.html",
-    "precache-manifest.c2cbbd5dad8371918ef9fc8f3935fe50.js": "/beer/precache-manifest.c2cbbd5dad8371918ef9fc8f3935fe50.js",
+    "precache-manifest.9ed9efb4f55a45ba209e1ea6356d2036.js": "/beer/precache-manifest.9ed9efb4f55a45ba209e1ea6356d2036.js",
     "service-worker.js": "/beer/service-worker.js",
     "static/css/main.8155bc82.chunk.css.map": "/beer/static/css/main.8155bc82.chunk.css.map",
     "static/js/2.376a0d44.chunk.js.LICENSE.txt": "/beer/static/js/2.376a0d44.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.dd28b84c.js",
     "static/js/2.376a0d44.chunk.js",
     "static/css/main.8155bc82.chunk.css",
-    "static/js/main.5aba357c.chunk.js"
+    "static/js/main.cba93515.chunk.js"
   ]
 }
