@@ -1,0 +1,290 @@
+[
+  {
+    "name": "TAP 01",
+    "brewery": "Schneider Weisse, Германия",
+    "style": "Вайсбир",
+    "rating": 6
+  },
+  {
+    "name": "Pop Core",
+    "brewery": "Бакунин, Россия",
+    "style": "IPA",
+    "rating": 5
+  },
+  {
+    "name": "Spaten",
+    "brewery": "Германия (импорт)",
+    "style": "Лагер",
+    "rating": 5
+  },
+  {
+    "name": "Hoegaarden",
+    "brewery": "Россия",
+    "style": "Бланш",
+    "rating": 7
+  },
+  {
+    "name": "Krušovice Světlé Royal",
+    "brewery": "Россия",
+    "style": "Лагер",
+    "rating": 5
+  },
+  {
+    "name": "Löwenbräu",
+    "brewery": "Россия",
+    "style": "Лагер",
+    "rating": 4
+  },
+  {
+    "name": "Бланш де Мазай",
+    "brewery": "Волковская пивоварня, Россия",
+    "style": "Бланш",
+    "rating": 5
+  },
+  {
+    "name": "Мишенька под вишенкой",
+    "brewery": "Волковская пивоварня, Россия",
+    "style": "Вишневый эль",
+    "rating": 5
+  },
+  {
+    "name": "Grolsch",
+    "brewery": "Россия",
+    "style": "Лагер",
+    "rating": 4
+  },
+  {
+    "name": "Reeper B.",
+    "brewery": "Германия?",
+    "style": "Вайсбир",
+    "rating": 0
+  },
+  {
+    "name": "Amstel",
+    "brewery": "Россия",
+    "style": "IPA",
+    "rating": 4
+  },
+  {
+    "name": "Munchner Weisse",
+    "brewery": "Hofbrau, Германия?",
+    "style": "Вайсбир",
+    "rating": 4
+  },
+  {
+    "name": "Affligem Blonde",
+    "brewery": "Бельгия?",
+    "style": "Светлый эль",
+    "rating": 4
+  },
+  {
+    "name": "Старый Мельник из бочонка мягкое",
+    "brewery": "Россия",
+    "style": "Лагер",
+    "rating": 1
+  },
+  {
+    "name": "Манго втроем",
+    "brewery": "Горьковская пивоварня",
+    "style": "Вайсбир",
+    "rating": 3
+  },
+  {
+    "name": "Кер Сари",
+    "brewery": "Букет Чувашии, Чувашия",
+    "style": "Дункель",
+    "rating": 4
+  },
+  {
+    "name": "Кер Сари",
+    "brewery": "Букет Чувашии, Чувашия",
+    "style": "Лагер",
+    "rating": 5
+  },
+  {
+    "name": "Светлячок",
+    "brewery": "Волковская пивоварня, Россия",
+    "style": "Лагер",
+    "rating": 5
+  },
+  {
+    "name": "Kronenbourg 1664",
+    "brewery": "Балтика, Россия",
+    "style": "Лагер",
+    "rating": 4
+  },
+  {
+    "name": "Young’s Double Chocolate Stout",
+    "brewery": "Великобритания",
+    "style": "Стаут",
+    "rating": 4
+  },
+  {
+    "name": "Schofferhofer",
+    "brewery": "Германия",
+    "style": "Вайсбир",
+    "rating": 6
+  },
+  {
+    "name": "APA",
+    "brewery": "Волковская пивоварня, Россия",
+    "style": "APA",
+    "rating": 4
+  },
+  {
+    "name": "TAP 05",
+    "brewery": "Schneider Weisse, Германия",
+    "style": "Хефевайцен",
+    "rating": 6
+  },
+  {
+    "name": "Franziskaner",
+    "brewery": "Россия?",
+    "style": "Вайсбир",
+    "rating": 6
+  },
+  {
+    "name": "Hoppy Milk",
+    "brewery": "Stamm Brewing, Россия",
+    "style": "APA с лактозой",
+    "rating": 6
+  },
+  {
+    "name": "Feldschlösschen (Pale Wheat)",
+    "brewery": "Германия",
+    "style": "Вайсбир",
+    "rating": 3
+  },
+  {
+    "name": "Feldschlösschen (Urbock)",
+    "brewery": "Германия",
+    "style": "Дункель?",
+    "rating": 3
+  },
+  {
+    "name": "Nøørden",
+    "brewery": "Stamm Brewing, Россия",
+    "style": "Светлый эль",
+    "rating": 6
+  },
+  {
+    "name": "Monsieur l'Abricot",
+    "brewery": "Konix Brewery, Россия",
+    "style": "Абрикосовое пиво",
+    "rating": 5
+  },
+  {
+    "name": "TAP 02",
+    "brewery": "Schneider Weisse, Германия",
+    "style": "Кристаллвайцен",
+    "rating": 6
+  },
+  {
+    "name": "Corsendonk",
+    "brewery": "Бельгия",
+    "style": "Бланш",
+    "rating": 8
+  },
+  {
+    "name": "Coconut Madness",
+    "brewery": "DARKSIDE, Россия",
+    "style": "Стаут с лактозой",
+    "rating": 4
+  },
+  {
+    "name": "Бельгийский вит",
+    "brewery": "Ravencraft, Россия",
+    "style": "Бланш",
+    "rating": 0
+  },
+  {
+    "name": "TAP 06",
+    "brewery": "Schneider Weisse, Германия",
+    "style": "Вайценбок",
+    "rating": 5
+  },
+  {
+    "name": "Paulaner",
+    "brewery": "Германия",
+    "style": "Вайсбир",
+    "rating": 4
+  },
+  {
+    "name": "Жигули",
+    "brewery": "Россия",
+    "style": "IPA",
+    "rating": 5
+  },
+  {
+    "name": "Tempelier",
+    "brewery": "Corsendonk, Бельгия",
+    "style": "Светлый эль",
+    "rating": 6
+  },
+  {
+    "name": "Delirium Nocturnum",
+    "brewery": "Huyghe, Бельгия",
+    "style": "Темный эль",
+    "rating": 4
+  },
+  {
+    "name": "Kwak",
+    "brewery": "Бельгия",
+    "style": "Светлый эль",
+    "rating": 1
+  },
+  {
+    "name": "In Bloom",
+    "brewery": "Бакунин, Россия",
+    "style": "IPA с манго и лактозой",
+    "rating": 5
+  },
+  {
+    "name": "Прятки",
+    "brewery": "4BREWERS, Россия",
+    "style": "Triple IPA",
+    "rating": 4
+  },
+  {
+    "name": "Sour Guava Party",
+    "brewery": "Stamm Brewing, Россия",
+    "style": "Кислый эль с гуавой",
+    "rating": 4
+  },
+  {
+    "name": "Alabama",
+    "brewery": "Волковская пивоварня, Россия",
+    "style": "Персиковый эль",
+    "rating": 5
+  },
+  {
+    "name": "TAP 07",
+    "brewery": "Schneider Weisse, Германия",
+    "style": "Вайсбир",
+    "rating": 7
+  },
+  {
+    "name": "Brasserie du Mont Blanc",
+    "brewery": "Бельгия",
+    "style": "Бланш",
+    "rating": 8
+  },
+  {
+    "name": "Lemon Cake",
+    "brewery": "Lovecraft Weird Brewery, Россия",
+    "style": "Светлый эль",
+    "rating": 5
+  },
+  {
+    "name": "Annual Farewell Freak Show",
+    "brewery": "AF Brew",
+    "style": "Стаут",
+    "rating": 4
+  },
+  {
+    "name": "Blanche de Bruxelles",
+    "brewery": "Бельгия",
+    "style": "Бланш",
+    "rating": 1
+  }
+]
