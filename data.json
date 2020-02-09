@@ -286,5 +286,11 @@
     "brewery": "Бельгия",
     "style": "Бланш",
     "rating": 1
+  },
+  {
+    "name": "Punk IPA",
+    "brewery": "BrewDog, Шотландия",
+    "style": "IPA",
+    "rating": 5
   }
 ]
