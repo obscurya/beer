@@ -1,296 +1,394 @@
 [
   {
     "name": "TAP 01",
-    "brewery": "Schneider Weisse, Германия",
+    "brewery": "Schneider Weisse",
+    "country": "Германия",
     "style": "Вайсбир",
-    "rating": 6
+    "rating": 6,
+    "isCrafted": false
   },
   {
     "name": "Pop Core",
-    "brewery": "Бакунин, Россия",
+    "brewery": "Бакунин",
+    "country": "Россия",
     "style": "IPA",
-    "rating": 5
+    "rating": 5,
+    "isCrafted": true
   },
   {
     "name": "Spaten",
-    "brewery": "Германия (импорт)",
+    "brewery": "",
+    "country": "Германия (импорт)",
     "style": "Лагер",
-    "rating": 5
+    "rating": 5,
+    "isCrafted": false
   },
   {
     "name": "Hoegaarden",
-    "brewery": "Россия",
+    "brewery": "",
+    "country": "Россия",
     "style": "Бланш",
-    "rating": 7
+    "rating": 7,
+    "isCrafted": false
   },
   {
     "name": "Krušovice Světlé Royal",
-    "brewery": "Россия",
+    "brewery": "",
+    "country": "Россия",
     "style": "Лагер",
-    "rating": 5
+    "rating": 5,
+    "isCrafted": false
   },
   {
     "name": "Löwenbräu",
-    "brewery": "Россия",
+    "brewery": "",
+    "country": "Россия",
     "style": "Лагер",
-    "rating": 4
+    "rating": 4,
+    "isCrafted": false
   },
   {
     "name": "Бланш де Мазай",
-    "brewery": "Волковская пивоварня, Россия",
+    "brewery": "Волковская пивоварня",
+    "country": "Россия",
     "style": "Бланш",
-    "rating": 5
+    "rating": 5,
+    "isCrafted": false
   },
   {
     "name": "Мишенька под вишенкой",
-    "brewery": "Волковская пивоварня, Россия",
+    "brewery": "Волковская пивоварня",
+    "country": "Россия",
     "style": "Вишневый эль",
-    "rating": 5
+    "rating": 5,
+    "isCrafted": false
   },
   {
     "name": "Grolsch",
-    "brewery": "Россия",
+    "brewery": "",
+    "country": "Россия",
     "style": "Лагер",
-    "rating": 4
+    "rating": 4,
+    "isCrafted": false
   },
   {
     "name": "Reeper B.",
-    "brewery": "Германия?",
+    "brewery": "",
+    "country": "Германия?",
     "style": "Вайсбир",
-    "rating": 0
+    "rating": 0,
+    "isCrafted": false
   },
   {
     "name": "Amstel",
-    "brewery": "Россия",
+    "brewery": "",
+    "country": "Россия",
     "style": "IPA",
-    "rating": 4
+    "rating": 4,
+    "isCrafted": false
   },
   {
     "name": "Munchner Weisse",
-    "brewery": "Hofbrau, Германия?",
+    "brewery": "Hofbrau",
+    "country": "Германия?",
     "style": "Вайсбир",
-    "rating": 4
+    "rating": 4,
+    "isCrafted": false
   },
   {
     "name": "Affligem Blonde",
-    "brewery": "Бельгия?",
+    "brewery": "",
+    "country": "Бельгия?",
     "style": "Светлый эль",
-    "rating": 4
+    "rating": 4,
+    "isCrafted": false
   },
   {
     "name": "Старый Мельник из бочонка мягкое",
-    "brewery": "Россия",
+    "brewery": "",
+    "country": "Россия",
     "style": "Лагер",
-    "rating": 1
+    "rating": 1,
+    "isCrafted": false
   },
   {
     "name": "Манго втроем",
     "brewery": "Горьковская пивоварня",
+    "country": "Россия",
     "style": "Вайсбир",
-    "rating": 3
+    "rating": 3,
+    "isCrafted": false
   },
   {
     "name": "Кер Сари",
-    "brewery": "Букет Чувашии, Чувашия",
+    "brewery": "Букет Чувашии",
+    "country": "Чувашия",
     "style": "Дункель",
-    "rating": 4
+    "rating": 4,
+    "isCrafted": false
   },
   {
     "name": "Кер Сари",
-    "brewery": "Букет Чувашии, Чувашия",
+    "brewery": "Букет Чувашии",
+    "country": "Чувашия",
     "style": "Лагер",
-    "rating": 5
+    "rating": 5,
+    "isCrafted": false
   },
   {
     "name": "Светлячок",
-    "brewery": "Волковская пивоварня, Россия",
+    "brewery": "Волковская пивоварня",
+    "country": "Россия",
     "style": "Лагер",
-    "rating": 5
+    "rating": 5,
+    "isCrafted": false
   },
   {
     "name": "Kronenbourg 1664",
-    "brewery": "Балтика, Россия",
+    "brewery": "Балтика",
+    "country": "Россия",
     "style": "Лагер",
-    "rating": 4
+    "rating": 4,
+    "isCrafted": false
   },
   {
     "name": "Young’s Double Chocolate Stout",
-    "brewery": "Великобритания",
+    "brewery": "",
+    "country": "Великобритания",
     "style": "Стаут",
-    "rating": 4
+    "rating": 4,
+    "isCrafted": false
   },
   {
     "name": "Schofferhofer",
-    "brewery": "Германия",
+    "brewery": "",
+    "country": "Германия",
     "style": "Вайсбир",
-    "rating": 6
+    "rating": 6,
+    "isCrafted": false
   },
   {
     "name": "APA",
-    "brewery": "Волковская пивоварня, Россия",
+    "brewery": "Волковская пивоварня",
+    "country": "Россия",
     "style": "APA",
-    "rating": 4
+    "rating": 4,
+    "isCrafted": false
   },
   {
     "name": "TAP 05",
-    "brewery": "Schneider Weisse, Германия",
+    "brewery": "Schneider Weisse",
+    "country": "Германия",
     "style": "Хефевайцен",
-    "rating": 6
+    "rating": 6,
+    "isCrafted": false
   },
   {
     "name": "Franziskaner",
-    "brewery": "Россия?",
+    "brewery": "",
+    "country": "Россия?",
     "style": "Вайсбир",
-    "rating": 6
+    "rating": 6,
+    "isCrafted": false
   },
   {
     "name": "Hoppy Milk",
-    "brewery": "Stamm Brewing, Россия",
+    "brewery": "Stamm Brewing",
+    "country": "Россия",
     "style": "APA с лактозой",
-    "rating": 6
+    "rating": 6,
+    "isCrafted": false
   },
   {
     "name": "Feldschlösschen (Pale Wheat)",
-    "brewery": "Германия",
+    "brewery": "",
+    "country": "Германия",
     "style": "Вайсбир",
-    "rating": 3
+    "rating": 3,
+    "isCrafted": false
   },
   {
     "name": "Feldschlösschen (Urbock)",
-    "brewery": "Германия",
+    "brewery": "",
+    "country": "Германия",
     "style": "Дункель?",
-    "rating": 3
+    "rating": 3,
+    "isCrafted": false
   },
   {
     "name": "Nøørden",
-    "brewery": "Stamm Brewing, Россия",
+    "brewery": "Stamm Brewing",
+    "country": "Россия",
     "style": "Светлый эль",
-    "rating": 6
+    "rating": 6,
+    "isCrafted": false
   },
   {
     "name": "Monsieur l'Abricot",
-    "brewery": "Konix Brewery, Россия",
+    "brewery": "Konix Brewery",
+    "country": "Россия",
     "style": "Абрикосовое пиво",
-    "rating": 5
+    "rating": 5,
+    "isCrafted": false
   },
   {
     "name": "TAP 02",
-    "brewery": "Schneider Weisse, Германия",
+    "brewery": "Schneider Weisse",
+    "country": "Германия",
     "style": "Кристаллвайцен",
-    "rating": 6
+    "rating": 6,
+    "isCrafted": false
   },
   {
-    "name": "Corsendonk",
-    "brewery": "Бельгия",
+    "name": "",
+    "brewery": "Corsendonk",
+    "country": "Бельгия",
     "style": "Бланш",
-    "rating": 8
+    "rating": 8,
+    "isCrafted": false
   },
   {
     "name": "Coconut Madness",
-    "brewery": "DARKSIDE, Россия",
+    "brewery": "DARKSIDE",
+    "country": "Россия",
     "style": "Стаут с лактозой",
-    "rating": 4
+    "rating": 4,
+    "isCrafted": true
   },
   {
     "name": "Бельгийский вит",
-    "brewery": "Ravencraft, Россия",
+    "brewery": "Ravencraft",
+    "country": "Россия",
     "style": "Бланш",
-    "rating": 0
+    "rating": 0,
+    "isCrafted": true
   },
   {
     "name": "TAP 06",
-    "brewery": "Schneider Weisse, Германия",
+    "brewery": "Schneider Weisse",
+    "country": "Германия",
     "style": "Вайценбок",
-    "rating": 5
+    "rating": 5,
+    "isCrafted": false
   },
   {
     "name": "Paulaner",
-    "brewery": "Германия",
+    "brewery": "",
+    "country": "Германия",
     "style": "Вайсбир",
-    "rating": 4
+    "rating": 4,
+    "isCrafted": false
   },
   {
     "name": "Жигули",
-    "brewery": "Россия",
+    "brewery": "",
+    "country": "Россия",
     "style": "IPA",
-    "rating": 5
+    "rating": 5,
+    "isCrafted": false
   },
   {
     "name": "Tempelier",
-    "brewery": "Corsendonk, Бельгия",
+    "brewery": "Corsendonk",
+    "country": "Бельгия",
     "style": "Светлый эль",
-    "rating": 6
+    "rating": 6,
+    "isCrafted": false
   },
   {
     "name": "Delirium Nocturnum",
-    "brewery": "Huyghe, Бельгия",
+    "brewery": "Huyghe",
+    "country": "Бельгия",
     "style": "Темный эль",
-    "rating": 4
+    "rating": 4,
+    "isCrafted": false
   },
   {
     "name": "Kwak",
-    "brewery": "Бельгия",
+    "brewery": "",
+    "country": "Бельгия",
     "style": "Светлый эль",
-    "rating": 1
+    "rating": 1,
+    "isCrafted": false
   },
   {
     "name": "In Bloom",
-    "brewery": "Бакунин, Россия",
+    "brewery": "Бакунин",
+    "country": "Россия",
     "style": "IPA с манго и лактозой",
-    "rating": 5
+    "rating": 5,
+    "isCrafted": true
   },
   {
     "name": "Прятки",
-    "brewery": "4BREWERS, Россия",
+    "brewery": "4BREWERS",
+    "country": "Россия",
     "style": "Triple IPA",
-    "rating": 4
+    "rating": 4,
+    "isCrafted": true
   },
   {
     "name": "Sour Guava Party",
-    "brewery": "Stamm Brewing, Россия",
+    "brewery": "Stamm Brewing",
+    "country": "Россия",
     "style": "Кислый эль с гуавой",
-    "rating": 4
+    "rating": 4,
+    "isCrafted": true
   },
   {
     "name": "Alabama",
-    "brewery": "Волковская пивоварня, Россия",
+    "brewery": "Волковская пивоварня",
+    "country": "Россия",
     "style": "Персиковый эль",
-    "rating": 5
+    "rating": 5,
+    "isCrafted": false
   },
   {
     "name": "TAP 07",
-    "brewery": "Schneider Weisse, Германия",
+    "brewery": "Schneider Weisse",
+    "country": "Германия",
     "style": "Вайсбир",
-    "rating": 7
+    "rating": 7,
+    "isCrafted": false
   },
   {
-    "name": "Brasserie du Mont Blanc",
-    "brewery": "Бельгия",
+    "name": "",
+    "brewery": "Brasserie du Mont Blanc",
+    "country": "Бельгия",
     "style": "Бланш",
-    "rating": 8
+    "rating": 8,
+    "isCrafted": false
   },
   {
     "name": "Lemon Cake",
-    "brewery": "Lovecraft Weird Brewery, Россия",
+    "brewery": "Lovecraft Weird Brewery",
+    "country": "Россия",
     "style": "Светлый эль",
-    "rating": 5
+    "rating": 5,
+    "isCrafted": true
   },
   {
     "name": "Annual Farewell Freak Show",
-    "brewery": "AF Brew, Россия",
+    "brewery": "AF Brew",
+    "country": "Россия",
     "style": "Стаут",
-    "rating": 4
+    "rating": 4,
+    "isCrafted": true
   },
   {
     "name": "Blanche de Bruxelles",
-    "brewery": "Бельгия",
+    "brewery": "",
+    "country": "Бельгия",
     "style": "Бланш",
-    "rating": 1
+    "rating": 1,
+    "isCrafted": false
   },
   {
     "name": "Punk IPA",
-    "brewery": "BrewDog, Шотландия",
+    "brewery": "BrewDog",
+    "country": "Шотландия",
     "style": "IPA",
-    "rating": 5
+    "rating": 5,
+    "isCrafted": false
   }
 ]
